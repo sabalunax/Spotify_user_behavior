@@ -1,6 +1,6 @@
 The data concerning Spotify users predominantly consisted of categorical variables.
-
-Missing data were largely imputed using the mode. An exception was the variable spotify_subscription_plan, which, due to its potential significance for future model development, was imputed by iterative imputer.
+Missing data were largely imputed using the mode. An exception was the variable spotify_subscription_plan, which, due to its potential significance for future model development, 
+was imputed by iterative imputer.
 
 A logical condition was applied to exclude observations of individuals who neither have nor intend to have a paid plan but indicated a preferred plan.
 
@@ -8,13 +8,15 @@ In columns with numerous categorical variables, often with very small counts, va
 
 Where feasible, categorical variables were transformed into ordinal variables; for the remaining variables, one-hot encoding was performed.
 
-For convenient data interpretation, a heatmap based on Kendall's correlation matrix was created, displaying only variables with correlations above 0.5 or below -0.5. These correlated variables were also listed.
+For convenient data interpretation, a heatmap based on Kendall's correlation matrix was created, displaying only variables with correlations above 0.5 or below -0.5. 
+These correlated variables were also listed.
 
 To avoid multicollinearity, highly correlated variables were removed, as well as the age category 6-12, which contained only one observation.
 
 The dependent variable was "premium_sub_willingness."
 
-The machine learning algorithms applied included: Logistic Regression, Regularized Logistic Regression, XGB Classifier, XGB Classifier with cross-validation, and Bagging XGB Classifier.
+The machine learning algorithms applied included: 
+Logistic Regression, Regularized Logistic Regression, XGB Classifier, XGB Classifier with cross-validation, and Bagging XGB Classifier.
 
 RFE was employed to select the best variables, appropriately tailored for each model.
 
