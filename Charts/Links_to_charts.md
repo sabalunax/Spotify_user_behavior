@@ -2,7 +2,7 @@
 
 [Age detailed](https://chart-studio.plotly.com/~sabalunax/17.embed)
 
-[Gender](https://chart-studio.plotly.com/~sabalunax/19.embed)
+[Gender](https://chart-studio.plotly.com/~sabalunax/19.embed?link=hide&logo=false&modebar=false)
 
 
 
