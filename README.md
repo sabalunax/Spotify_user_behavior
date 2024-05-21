@@ -2,7 +2,7 @@
 
 UPDATE: need to chceck if sample sizes of categories other than age, in relation to the dependant variable, are ok.
 
-[charts](https://github.com/sabalunax/Spotify_user_behavior/blob/spotify/Charts/Links_to_charts.md)
+[charts](https://github.com/sabalunax/Spotify_user_behavior/blob/spotify/02 - Charts/Links_to_charts.md)
 
 The data concerning Spotify users predominantly consisted of categorical variables.
 Missing data were largely imputed using the mode. An exception was the variable spotify_subscription_plan,
