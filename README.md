@@ -1,6 +1,6 @@
 ...still in progress
 
-# UPDATE: need to chceck if sample sizes of categories other than age, in relation to the dependant variable, are ok.
+UPDATE: need to chceck if sample sizes of categories other than age, in relation to the dependant variable, are ok.
 
 [charts](https://github.com/sabalunax/Spotify_user_behavior/blob/spotify/Charts/Links_to_charts.md)
 
