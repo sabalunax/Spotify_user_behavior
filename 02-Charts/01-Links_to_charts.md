@@ -4,8 +4,6 @@
 
 [Gender](https://chart-studio.plotly.com/~sabalunax/19.embed?link=hide&logo=false&modebar=false)
 
-<a href="http://google.com/" target="_blank">Hello, google!</a>
-
 
 
 
