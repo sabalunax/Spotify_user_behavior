@@ -1,5 +1,7 @@
 ...still in progress
 
+# UPDATE: need to chceck if sample sizes of categories other than age, in relation to the dependant variable, are ok.
+
 The data concerning Spotify users predominantly consisted of categorical variables.
 Missing data were largely imputed using the mode. An exception was the variable spotify_subscription_plan,
 which, due to its potential significance for future model development, 
