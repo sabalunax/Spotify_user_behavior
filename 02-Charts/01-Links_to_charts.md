@@ -1,5 +1,3 @@
-markdown_extensions:
-  - attr_list
 
 [Age in total](https://chart-studio.plotly.com/~sabalunax/21.embed)
 
