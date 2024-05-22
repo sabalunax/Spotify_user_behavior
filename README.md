@@ -40,18 +40,18 @@ The best results were achieved with the XGB Classifier with cross-validation
 and the Bagging XGB Classifier, with the following metrics:
 
 Model: XGB cross-val
-Accuracy: 0.76
-Precision: 0.60
-Recall: 0.58
-F1-score: 0.56
-ROC AUC: 0.78
+- Accuracy: 0.76
+- Precision: 0.60
+- Recall: 0.58
+- F1-score: 0.56
+- ROC AUC: 0.78
 
 Model: XGB bagging classifier
-Accuracy: 0.78
-Precision: 0.62
-Recall: 0.58
-F1-score: 0.57
-ROC AUC: 0.79
+- Accuracy: 0.78
+- Precision: 0.62
+- Recall: 0.58
+- F1-score: 0.57
+- ROC AUC: 0.79
 
 The final step was creating interactive plots using Plotly, 
 which were shared on Plotly Chart Studio, making them easily shareable.
